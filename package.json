@@ -1,6 +1,6 @@
 {
   "$schema": "https://www.raycast.com/schemas/extension.json",
-  "name": "raycast-llama3",
+  "name": "llama3",
   "title": "Llama 3",
   "description": "Use Llama-3 for FREE, on Raycast - no API Key required.",
   "icon": "llama-icon.png",

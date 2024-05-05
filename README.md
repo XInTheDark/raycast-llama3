@@ -1,4 +1,4 @@
-# Raycast-Llama3
+# Llama3
 
 Use the powerful Llama-3 chat models on Raycast, for FREE - no API Key required.
 

@@ -1,5 +1,5 @@
-## 2024-05-05: Initial release of Raycast-Llama3
-Raycast-Llama3 is here! Based on the powerful Llama-3 chat models, this extension is available for free on Raycast, with **no API Key required**.
+## 2024-05-05: Initial release of Llama3
+Llama3 is here! Based on the powerful Llama-3 chat models, this extension is available for free on Raycast, with **no API Key required**.
 It delivers blazingly fast results, and is perfect for all your AI needs!
 
 Features include:
